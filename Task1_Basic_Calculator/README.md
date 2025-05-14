@@ -1,4 +1,4 @@
-# Task 3 - Basic Calculator
+# Task 1 - Basic Calculator
 
 This is a simple web-based calculator developed using **HTML**, **CSS (Grid)**, and **JavaScript**.
 
